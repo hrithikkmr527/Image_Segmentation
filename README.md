@@ -44,4 +44,4 @@ background mask to the segmented image to get our final segmented image.
 
 ## References
 [P. Felzenszwalb, D. Huttenloche. Efficient Graph-Based Image Segmentation. *Intl Journal of 
-Computer Vision*, 2004, 59 (2)]([link_to_paper](https://link.springer.com/article/10.1023/B:VISI.0000022288.19776.77))
+Computer Vision*, 2004, 59 (2)]((https://link.springer.com/article/10.1023/B:VISI.0000022288.19776.77))
